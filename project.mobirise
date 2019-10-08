@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/fe-128x80.png",
+    "favicon": "@PROJECT_PATH@/assets/images/f-128x82-1.png",
     "noImageResize": "",
     "uniqCompNum": 2,
     "versionPublish": "4.10.7",
